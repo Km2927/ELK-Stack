@@ -1,4 +1,5 @@
-Overview
+**Overview**
+
 This repository provides the configuration files and instructions to deploy an ELK (Elasticsearch, Logstash, Kibana) stack using Docker and Docker Compose or a configuration management tool like Ansible.
 The main goal is to centralize and analyze logs/metrics from various sources, providing a powerful monitoring and analytics solution.
 The ELK Stack Explained
